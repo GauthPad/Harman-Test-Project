@@ -218,3 +218,32 @@ div .errorSpan {
   width: 56%;
   display: block;
 }
+
+/* Home Page */
+
+.wrapperForm .wrapperForm h2 {
+  color: #ffffff;
+}
+
+.wrapperForm a:link {
+  color: #ff0000;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+}
+  
+  /* visited link */
+.wrapperForm a:visited {
+    color: #008000;
+  }
+  
+  /* mouse over link */
+.wrapperForm a:hover {
+    color: #ff69b4;
+  }
+  
+  /* selected link */
+.wrapperForm a:active {
+    color: #0000ff;
+  }
